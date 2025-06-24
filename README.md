@@ -49,7 +49,7 @@ This project applies machine learning models to predict **Alzheimer’s Disease*
 
 You can run this notebook in Google Colab:
 
-👉 [Open in Colab](https://colab.research.google.com/)  
+👉 [Open in Colab](https://colab.research.google.com/drive/1u9VAifp8ULUa_ojWMwZ_BT3RBzJfxGN5)  
 → Upload the notebook: `Alzheimers_Disease_Diagnosis_ML.ipynb`
 
 ---
