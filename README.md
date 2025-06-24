@@ -63,9 +63,9 @@ This project demonstrates how traditional ML pipelines, combined with **oversamp
 ## 📎 Author
 
 - **Name:** Basit Ibrahim  
-- **GitHub:** [github.com/yourusername](https://github.com/yourusername)  
+- **GitHub:** [github.com/BasitIbrahim11](https://github.com/BasitIbrahim11)  
 - **Education:** MS Artificial Intelligence  
-- **Tools Used:** Python, Pandas, Matplotlib, Scikit-learn, SMOTE, XGBoost
+- **Tools Used:** Python, Pandas, Matplotlib, Scikit-learn, SMOTE,
 
 ---
 
